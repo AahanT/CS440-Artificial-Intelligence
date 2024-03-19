@@ -1,5 +1,6 @@
 # CS 440: Artificial Intelligence
 
+
 MP's for CS 440: Artificial Intelligence taken at UIUC in Spring 2023
 Lecturer: Prof. Mark Hasegawa-Johnson
 
